@@ -6,6 +6,7 @@ public class TestAccount {
 	public static void main(){
 		long v=5;
 		a.setName("madan");
+		System.out.println("Madan Dhungana");
 		a.setAge(5);
 		a.print();
 	}
